@@ -1,4 +1,4 @@
-# nina_homework
+# database streamer
 
 A new Flutter project.
 
