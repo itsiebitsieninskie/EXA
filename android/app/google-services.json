@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "751724088789",
+    "project_id": "exa-mobile-2024",
+    "storage_bucket": "exa-mobile-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751724088789:android:27bba594a91f57cda2815c",
+        "android_client_info": {
+          "package_name": "com.example.nina_homework"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRYYJ1rNhOAc2Uskc2M7Fxh0JUpgCR_fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
